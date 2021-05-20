@@ -10,43 +10,43 @@ using Leaf.xNet;
 namespace Avtechlib
 {
     /// <summary>
-    /// Classe per la scansione e attacco dei servizi di videosorveglianza Avtech
+    /// Class for scanning and attacking Avtech video surveillance services
     /// </summary>
     public class Avtech
     {
         /// <summary>
-        /// Campo della classe Token per fermare l'attacco
+        /// Token class field to stop the attack
         /// </summary>
         private CancellationTokenSource Task_Token;
 
         /// <summary>
-        /// Campo che indica se l'attacco parallelo è iniziato
+        /// Field indicating whether the parallel attack has started
         /// </summary>
         private bool Parallel_Run = false;
 
         /// <summary>
-        /// Evento che avvisa quanti ip sono stati testati
+        /// Event that warns how many IPs have been tested
         /// </summary>
         public event EventHandler<Test_Info> Info_Tested;
 
         /// <summary>
-        /// Evento che avvisa quando lo scan è terminato restituendo un istanza Ip_Info
+        /// Event that warns when the scan has finished returning an Ip_Info instance
         /// </summary>
         public event EventHandler<Ip_Info> Scan_Terminato;
 
         /// <summary>
-        /// Evento che avvisa quando l'attacco è terminato restituendo un istanza Attack_Info
+        /// Event that warns when the attack has ended by returning an Attack_Info instance
         /// </summary>
         public event EventHandler<Attack_Info> Attack_Terminato;
 
         /// <summary>
-        /// Metodo Sincrono per la scansione del servizio Avtech AVN801 tramite shodan
+        /// Synchronous method for scanning Avtech AVN801 service via shodan
         /// </summary>
-        /// <param name="Shodan_Api">Api di shodan</param>
-        /// <param name="Paese">Paese target ES: IT</param>
-        /// <param name="Citta">Città del paese target ES: Naples</param>
-        /// <param name="Pagina">Pagina di shodan da visionare 1 pagina = max 100 risultati = 1 credito</param>
-        /// <returns>Restituisce l'istanza Ip_Info con tutte le informazioni sulla scansione</returns>
+        /// <param name="Shodan_Api">Shodan api</param>
+        /// <param name="Paese">Target country E.g: IT</param>
+        /// <param name="Citta">City of the target country E.g: Naples</param>
+        /// <param name="Pagina">Shodan page to view 1 page = max 100 results = 1 credit</param>
+        /// <returns>Returns the Ip_Info instance with all information about the scan</returns>
         public Ip_Info Scan_Sync(string Shodan_Api, string Paese, string Citta, byte Pagina)
         {
             switch (string.IsNullOrWhiteSpace(Shodan_Api))
@@ -123,24 +123,24 @@ namespace Avtechlib
         }
 
         /// <summary>
-        /// Metodo Asincrono per la scansione del servizio Avtech AVN801 tramite shodan
+        /// Asynchronous method for scanning the Avtech AVN801 service via shodan
         /// </summary>
-        /// <param name="Shodan_Api">Api di shodan</param>
-        /// <param name="Paese">Paese target ES: IT</param>
-        /// <param name="Citta">Città del paese target ES: Naples</param>
-        /// <param name="Pagina">Pagina di shodan da visionare 1 pagina = max 100 risultati = 1 credito</param>
-        /// <returns>Restituisce l'istanza Ip_Info con tutte le informazioni sulla scansione</returns>
+        /// <param name="Shodan_Api">Shodan api</param>
+        /// <param name="Paese">Target country E.g: IT</param>
+        /// <param name="Citta">City of the target country E.g: Naples</param>
+        /// <param name="Pagina">Shodan page to view 1 page = max 100 results = 1 credit</param>
+        /// <returns>Returns the Ip_Info instance with all information about the scan</returns>
         public Task<Ip_Info> Scan_Async(string Shodan_Api, string Paese, string Citta, byte Pagina)
         {
             return Task.Run(() => Scan_Sync(Shodan_Api, Paese, Citta, Pagina));
         }
 
         /// <summary>
-        /// Metodo Sincrono per iniziare l'attacco, attacchi eseguiti: Brute e Bypass
+        /// Synchronous method to initiate the attack, attacks performed: Brute and Bypass
         /// </summary>
-        /// <param name="Vittime">Indirizzi ip delle vittime</param>
-        /// <param name="Threads">Threads per le operazioni parallele</param>
-        /// <returns>Restituisce l'istanza Attack_Info con tutte le informazioni dell'attacco</returns>
+        /// <param name="Vittime">IP addresses of the victims</param>
+        /// <param name="Threads">Threads for parallel operations</param>
+        /// <returns>Returns the Attack_Info instance with all information of the attack</returns>
         public Attack_Info Attack_Sync(string[] Vittime, byte Threads)
         {
             switch (Vittime.Length)
@@ -204,7 +204,7 @@ namespace Avtechlib
                         }
                         catch (Exception)
                         {
-                        //Errori pass
+                            //Pass errors
                         }
 
                         if (Info_Tested != null)
@@ -218,7 +218,7 @@ namespace Avtechlib
                 }
                 catch (OperationCanceledException)
                 {
-                    //Annullo task
+                    //Cancel task
                     Parallel_Run = false;
                 }
             }
@@ -228,18 +228,18 @@ namespace Avtechlib
         }
 
         /// <summary>
-        /// Metodo Asincrono per iniziare l'attacco, attacchi eseguiti: Brute e Bypass
+        /// Asynchronous method to initiate the attack, attacks performed: Brute and Bypass
         /// </summary>
-        /// <param name="Vittime">Indirizzi ip delle vittime</param>
-        /// <param name="Threads">Threads per le operazioni parallele</param>
-        /// <returns>Restituisce l'istanza Attack_Info con tutte le informazioni dell'attacco</returns>
+        /// <param name="Vittime">IP addresses of the victims</param>
+        /// <param name="Threads">Threads for parallel operations</param>
+        /// <returns>Returns the Attack_Info instance with all information of the attack</returns>
         public Task<Attack_Info> Attack_Async(string[] Vittime, byte Threads)
         {
             return Task.Run(() => Attack_Sync(Vittime, Threads));
         }
 
         /// <summary>
-        /// Metodo per terminare l'attacco
+        /// Method to end the attack
         /// </summary>
         public void Stop_Attack()
         {
@@ -258,17 +258,17 @@ namespace Avtechlib
     namespace Avtechinfo
     {
         /// <summary>
-        /// Classe che contiene le informazioni su ip e porte trovate nella scansione tramite shodan
+        /// Class that contains the information on ip and ports found in the scan via shodan
         /// </summary>
         public class Ip_Info : EventArgs
         {
             /// <summary>
-            /// Lista che contiene ip e porta trovati
+            /// List containing ip and port found
             /// </summary>
             private List<string> Ip_Port = new List<string>();
 
             /// <summary>
-            /// Proprietà per visualizzare il numero dei vari ip trovati
+            /// Properties to view the number of the various ip found
             /// </summary>
             public int Ip_Trovati
             {
@@ -276,7 +276,7 @@ namespace Avtechlib
             }
 
             /// <summary>
-            /// Proprietà per settare un nuovo ip:porta nella lista dei vari indirizzi trovati
+            /// Properties for setting a new ip:port in the list of the various addresses found
             /// </summary>
             internal string Ip_Port_Add
             {
@@ -284,7 +284,7 @@ namespace Avtechlib
             }
 
             /// <summary>
-            /// Proprietà per visulizzare tutti i vari ip:porte trovati
+            /// Properties to view all the various ip:ports found
             /// </summary>
             public string[] Ip_Port_Show
             {
@@ -293,17 +293,17 @@ namespace Avtechlib
         }
 
         /// <summary>
-        /// Classe che contiene le informazioni delle vittime attaccate
+        /// Class containing the information of the victims being attacked
         /// </summary>
         public class Attack_Info : EventArgs
         {
             /// <summary>
-            /// Lista che contiene ip:porta e credenziali trovate
+            /// List containing ip:port and credentials found
             /// </summary>
             private List<string> Ip_Port_Cred = new List<string>();
 
             /// <summary>
-            /// Proprietà per visualizzare il numero delle credenziali trovate
+            /// Properties to view the number of credentials found
             /// </summary>
             public int Credenziali_Trovate
             {
@@ -311,7 +311,7 @@ namespace Avtechlib
             }
 
             /// <summary>
-            /// Proprietà che permette di aggiungere ip:porta e credenziali trovate nella lista
+            /// Property that allows you to add ip:port and credentials found in the list
             /// </summary>
             internal string Ip_Port_Cred_Add
             {
@@ -319,7 +319,7 @@ namespace Avtechlib
             }
 
             /// <summary>
-            /// Proprietà che restituisce i vari ip:porta con le credenziali trovate
+            /// Property that returns the various ip:port with the credentials found
             /// </summary>
             public string[] Ip_Port_Cred_Show
             {
@@ -328,31 +328,31 @@ namespace Avtechlib
         }
 
         /// <summary>
-        /// Classe che contiene le informazioni sul test
+        /// Class that contains information about the test
         /// </summary>
         public class Test_Info : EventArgs
         {
             /// <summary>
-            /// Campo che contiente ip totali da testare
+            /// Field containing total ip to test
             /// </summary>
             private int Ips = 0;
 
             /// <summary>
-            /// Campo che contiene ip testati
+            /// Field containing tested ip
             /// </summary>
             private int Ips_Testati = 0;
 
             /// <summary>
-            /// Costruttore per settare gli indirizzi ip da testare
+            /// Constructor to set the ip addresses to be tested
             /// </summary>
-            /// <param name="Ips_Totali">Ip da testare</param>
+            /// <param name="Ips_Totali">IP to test</param>
             public Test_Info(int Ips_Totali)
             {
                 Ips = Ips_Totali;
             }
 
             /// <summary>
-            /// Proprietà per visualizzare ip totali
+            /// Properties to view total ip
             /// </summary>
             public int Ips_Totali
             {
@@ -360,7 +360,7 @@ namespace Avtechlib
             }
 
             /// <summary>
-            /// Proprietà per visualizzare e settare ip testati
+            /// Properties to view and set tested ip
             /// </summary>
             public int Ips_Testati_Totali
             {
@@ -369,7 +369,7 @@ namespace Avtechlib
             }
 
             /// <summary>
-            /// Proprietà per visualizzare la percentuale dell'attacco
+            /// Properties to view the percentage of the attack
             /// </summary>
             public int Percentuale
             {
