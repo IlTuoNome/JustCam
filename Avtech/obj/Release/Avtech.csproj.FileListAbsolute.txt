@@ -1,0 +1,48 @@
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\bin\Release\Avtech.exe.config
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\bin\Release\Avtech.exe
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\bin\Release\Avtech.pdb
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\bin\Release\AvtechLib.dll
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\bin\Release\Leaf.xNet.dll
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\bin\Release\Newtonsoft.Json.dll
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\bin\Release\AvtechLib.pdb
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\bin\Release\AvtechLib.xml
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Release\Avtech.csprojAssemblyReference.cache
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Release\MainWindow.g.cs
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Release\Notification.g.cs
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Release\App.g.cs
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Release\Avtech_MarkupCompile.cache
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Release\Avtech_MarkupCompile.lref
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Release\MainWindow.baml
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Release\Notification.baml
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Release\Avtech.g.resources
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Release\Avtech.Properties.Resources.resources
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Release\Avtech.csproj.GenerateResource.cache
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Release\Avtech.csproj.CoreCompileInputs.cache
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Release\Avtech.csproj.CopyComplete
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Release\Avtech.exe
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Release\Avtech.pdb
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\bin\Release\Settings.xml
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Release\Avtech_Content.g.cs
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Release\Avtech.csprojAssemblyReference.cache
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Release\MainWindow.g.cs
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Release\Notification.g.cs
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Release\App.g.cs
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Release\Avtech_MarkupCompile.cache
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Release\Avtech_MarkupCompile.lref
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Release\Avtech.exe
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Release\Avtech.pdb
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\bin\Release\AvtechLib.xml
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\bin\Release\Avtech.exe.config
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\bin\Release\Avtech.exe
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\bin\Release\Avtech.pdb
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\bin\Release\AvtechLib.dll
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\bin\Release\Leaf.xNet.dll
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\bin\Release\Newtonsoft.Json.dll
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\bin\Release\AvtechLib.pdb
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Release\MainWindow.baml
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Release\Notification.baml
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Release\Avtech.g.resources
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Release\Avtech.Properties.Resources.resources
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Release\Avtech.csproj.GenerateResource.cache
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Release\Avtech.csproj.CoreCompileInputs.cache
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Release\Avtech.csproj.CopyComplete

@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AvtechLib</name>
+    </assembly>
+    <members>
+        <member name="T:Avtechlib.Avtech">
+            <summary>
+            Class for scanning and attacking Avtech video surveillance services
+            </summary>
+        </member>
+        <member name="F:Avtechlib.Avtech.Task_Token">
+            <summary>
+            Token class field to stop the attack
+            </summary>
+        </member>
+        <member name="F:Avtechlib.Avtech.Parallel_Run">
+            <summary>
+            Field indicating whether the parallel attack has started
+            </summary>
+        </member>
+        <member name="E:Avtechlib.Avtech.Info_Tested">
+            <summary>
+            Event that warns how many IPs have been tested
+            </summary>
+        </member>
+        <member name="E:Avtechlib.Avtech.Scan_Terminato">
+            <summary>
+            Event that warns when the scan has finished returning an Ip_Info instance
+            </summary>
+        </member>
+        <member name="E:Avtechlib.Avtech.Attack_Terminato">
+            <summary>
+            Event that warns when the attack has ended by returning an Attack_Info instance
+            </summary>
+        </member>
+        <member name="M:Avtechlib.Avtech.Scan_Sync(System.String,System.String,System.String,System.Byte)">
+            <summary>
+            Synchronous method for scanning Avtech AVN801 service via shodan
+            </summary>
+            <param name="Shodan_Api">Shodan api</param>
+            <param name="Paese">Target country E.g: IT</param>
+            <param name="Citta">City of the target country E.g: Naples</param>
+            <param name="Pagina">Shodan page to view 1 page = max 100 results = 1 credit</param>
+            <returns>Returns the Ip_Info instance with all information about the scan</returns>
+        </member>
+        <member name="M:Avtechlib.Avtech.Scan_Async(System.String,System.String,System.String,System.Byte)">
+            <summary>
+            Asynchronous method for scanning the Avtech AVN801 service via shodan
+            </summary>
+            <param name="Shodan_Api">Shodan api</param>
+            <param name="Paese">Target country E.g: IT</param>
+            <param name="Citta">City of the target country E.g: Naples</param>
+            <param name="Pagina">Shodan page to view 1 page = max 100 results = 1 credit</param>
+            <returns>Returns the Ip_Info instance with all information about the scan</returns>
+        </member>
+        <member name="M:Avtechlib.Avtech.Attack_Sync(System.String[],System.Byte)">
+            <summary>
+            Synchronous method to initiate the attack, attacks performed: Brute and Bypass
+            </summary>
+            <param name="Vittime">IP addresses of the victims</param>
+            <param name="Threads">Threads for parallel operations</param>
+            <returns>Returns the Attack_Info instance with all information of the attack</returns>
+        </member>
+        <member name="M:Avtechlib.Avtech.Attack_Async(System.String[],System.Byte)">
+            <summary>
+            Asynchronous method to initiate the attack, attacks performed: Brute and Bypass
+            </summary>
+            <param name="Vittime">IP addresses of the victims</param>
+            <param name="Threads">Threads for parallel operations</param>
+            <returns>Returns the Attack_Info instance with all information of the attack</returns>
+        </member>
+        <member name="M:Avtechlib.Avtech.Stop_Attack">
+            <summary>
+            Method to end the attack
+            </summary>
+        </member>
+        <member name="T:Avtechlib.Avtechinfo.Ip_Info">
+            <summary>
+            Class that contains the information on ip and ports found in the scan via shodan
+            </summary>
+        </member>
+        <member name="F:Avtechlib.Avtechinfo.Ip_Info.Ip_Port">
+            <summary>
+            List containing ip and port found
+            </summary>
+        </member>
+        <member name="P:Avtechlib.Avtechinfo.Ip_Info.Ip_Trovati">
+            <summary>
+            Properties to view the number of the various ip found
+            </summary>
+        </member>
+        <member name="P:Avtechlib.Avtechinfo.Ip_Info.Ip_Port_Add">
+            <summary>
+            Properties for setting a new ip:port in the list of the various addresses found
+            </summary>
+        </member>
+        <member name="P:Avtechlib.Avtechinfo.Ip_Info.Ip_Port_Show">
+            <summary>
+            Properties to view all the various ip:ports found
+            </summary>
+        </member>
+        <member name="T:Avtechlib.Avtechinfo.Attack_Info">
+            <summary>
+            Class containing the information of the victims being attacked
+            </summary>
+        </member>
+        <member name="F:Avtechlib.Avtechinfo.Attack_Info.Ip_Port_Cred">
+            <summary>
+            List containing ip:port and credentials found
+            </summary>
+        </member>
+        <member name="P:Avtechlib.Avtechinfo.Attack_Info.Credenziali_Trovate">
+            <summary>
+            Properties to view the number of credentials found
+            </summary>
+        </member>
+        <member name="P:Avtechlib.Avtechinfo.Attack_Info.Ip_Port_Cred_Add">
+            <summary>
+            Property that allows you to add ip:port and credentials found in the list
+            </summary>
+        </member>
+        <member name="P:Avtechlib.Avtechinfo.Attack_Info.Ip_Port_Cred_Show">
+            <summary>
+            Property that returns the various ip:port with the credentials found
+            </summary>
+        </member>
+        <member name="T:Avtechlib.Avtechinfo.Test_Info">
+            <summary>
+            Class that contains information about the test
+            </summary>
+        </member>
+        <member name="F:Avtechlib.Avtechinfo.Test_Info.Ips">
+            <summary>
+            Field containing total ip to test
+            </summary>
+        </member>
+        <member name="F:Avtechlib.Avtechinfo.Test_Info.Ips_Testati">
+            <summary>
+            Field containing tested ip
+            </summary>
+        </member>
+        <member name="M:Avtechlib.Avtechinfo.Test_Info.#ctor(System.Int32)">
+            <summary>
+            Constructor to set the ip addresses to be tested
+            </summary>
+            <param name="Ips_Totali">IP to test</param>
+        </member>
+        <member name="P:Avtechlib.Avtechinfo.Test_Info.Ips_Totali">
+            <summary>
+            Properties to view total ip
+            </summary>
+        </member>
+        <member name="P:Avtechlib.Avtechinfo.Test_Info.Ips_Testati_Totali">
+            <summary>
+            Properties to view and set tested ip
+            </summary>
+        </member>
+        <member name="P:Avtechlib.Avtechinfo.Test_Info.Percentuale">
+            <summary>
+            Properties to view the percentage of the attack
+            </summary>
+        </member>
+    </members>
+</doc>

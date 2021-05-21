@@ -1,0 +1,28 @@
+C:\Users\Daniele\Desktop\AvtechLib\AvtechLib\bin\Debug\netstandard2.0\AvtechLib.deps.json
+C:\Users\Daniele\Desktop\AvtechLib\AvtechLib\bin\Debug\netstandard2.0\AvtechLib.dll
+C:\Users\Daniele\Desktop\AvtechLib\AvtechLib\obj\Debug\netstandard2.0\AvtechLib.csprojAssemblyReference.cache
+C:\Users\Daniele\Desktop\AvtechLib\AvtechLib\obj\Debug\netstandard2.0\AvtechLib.AssemblyInfoInputs.cache
+C:\Users\Daniele\Desktop\AvtechLib\AvtechLib\obj\Debug\netstandard2.0\AvtechLib.AssemblyInfo.cs
+C:\Users\Daniele\Desktop\AvtechLib\AvtechLib\bin\Debug\netstandard2.0\AvtechLib.pdb
+C:\Users\Daniele\Desktop\AvtechLib\AvtechLib\obj\Debug\netstandard2.0\AvtechLib.csproj.CoreCompileInputs.cache
+C:\Users\Daniele\Desktop\AvtechLib\AvtechLib\obj\Debug\netstandard2.0\AvtechLib.dll
+C:\Users\Daniele\Desktop\AvtechLib\AvtechLib\obj\Debug\netstandard2.0\AvtechLib.pdb
+C:\Users\Daniele\Desktop\AvtechLib\AvtechLib\bin\Debug\netstandard2.0\Leaf.xNet.dll
+C:\Users\Daniele\Desktop\AvtechLib\AvtechLib\bin\Debug\netstandard2.0\Microsoft.CSharp.dll
+C:\Users\Daniele\Desktop\AvtechLib\AvtechLib\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\Daniele\Desktop\AvtechLib\AvtechLib\obj\Debug\netstandard2.0\AvtechLib.csproj.CopyComplete
+C:\Users\Daniele\Desktop\AvtechLib - Copia\AvtechLib\obj\Debug\netstandard2.0\AvtechLib.AssemblyInfoInputs.cache
+C:\Users\Daniele\Desktop\AvtechLib - Copia\AvtechLib\obj\Debug\netstandard2.0\AvtechLib.AssemblyInfo.cs
+C:\Users\Daniele\Desktop\AvtechLib - Copia\AvtechLib\obj\Debug\netstandard2.0\AvtechLib.dll
+C:\Users\Daniele\Desktop\AvtechLib - Copia\AvtechLib\obj\Debug\netstandard2.0\AvtechLib.pdb
+C:\Users\Daniele\Desktop\AvtechLib - Copia\AvtechLib\bin\Debug\netstandard2.0\AvtechLib.deps.json
+C:\Users\Daniele\Desktop\AvtechLib - Copia\AvtechLib\bin\Debug\netstandard2.0\AvtechLib.dll
+C:\Users\Daniele\Desktop\AvtechLib - Copia\AvtechLib\bin\Debug\netstandard2.0\AvtechLib.pdb
+C:\Users\Daniele\Desktop\AvtechLib - Copia\AvtechLib\bin\Debug\netstandard2.0\Microsoft.CSharp.dll
+C:\Users\Daniele\Desktop\AvtechLib - Copia\AvtechLib\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\Daniele\Desktop\AvtechLib - Copia\AvtechLib\obj\Debug\netstandard2.0\AvtechLib.csproj.CopyComplete
+C:\Users\Daniele\Desktop\AvtechLib - Copia\AvtechLib\obj\Debug\netstandard2.0\AvtechLib.csprojAssemblyReference.cache
+C:\Users\Daniele\Desktop\AvtechLib - Copia\AvtechLib\bin\Debug\netstandard2.0\AvtechLib.xml
+C:\Users\Daniele\Desktop\AvtechLib - Copia\AvtechLib\bin\Debug\netstandard2.0\Leaf.xNet.dll
+C:\Users\Daniele\Desktop\AvtechLib - Copia\AvtechLib\obj\Debug\netstandard2.0\AvtechLib.csproj.CoreCompileInputs.cache
+C:\Users\Daniele\Desktop\AvtechLib\AvtechLib\bin\Debug\netstandard2.0\AvtechLib.xml

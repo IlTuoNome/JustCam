@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "E+EWuZqoBCw12Txw6CYCqz/7bd+1GYr58UYXdaaD4xsL74cYQbNrPkAT8xyBmiPyv0NxHhwlXTVaQAASQ6K1vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniele\\Desktop\\Altro\\7)Test_Porgrammi\\Fatti\\JustCam\\Avtech\\AvtechLib\\AvtechLib\\AvtechLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniele\\.nuget\\packages\\leaf.xnet\\5.2.10\\leaf.xnet.5.2.10.nupkg.sha512",
+    "C:\\Users\\Daniele\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Daniele\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Daniele\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Daniele\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

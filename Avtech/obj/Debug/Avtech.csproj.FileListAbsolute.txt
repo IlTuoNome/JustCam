@@ -1,0 +1,114 @@
+C:\Users\Daniele\Desktop\Avtech\Avtech\bin\Debug\Avtech.exe.config
+C:\Users\Daniele\Desktop\Avtech\Avtech\bin\Debug\Avtech.exe
+C:\Users\Daniele\Desktop\Avtech\Avtech\bin\Debug\Avtech.pdb
+C:\Users\Daniele\Desktop\Avtech\Avtech\obj\Debug\Avtech.csprojAssemblyReference.cache
+C:\Users\Daniele\Desktop\Avtech\Avtech\obj\Debug\MainWindow.g.cs
+C:\Users\Daniele\Desktop\Avtech\Avtech\obj\Debug\App.g.cs
+C:\Users\Daniele\Desktop\Avtech\Avtech\obj\Debug\Avtech_MarkupCompile.cache
+C:\Users\Daniele\Desktop\Avtech\Avtech\obj\Debug\Avtech_MarkupCompile.lref
+C:\Users\Daniele\Desktop\Avtech\Avtech\obj\Debug\MainWindow.baml
+C:\Users\Daniele\Desktop\Avtech\Avtech\obj\Debug\Avtech.g.resources
+C:\Users\Daniele\Desktop\Avtech\Avtech\obj\Debug\Avtech.Properties.Resources.resources
+C:\Users\Daniele\Desktop\Avtech\Avtech\obj\Debug\Avtech.csproj.GenerateResource.cache
+C:\Users\Daniele\Desktop\Avtech\Avtech\obj\Debug\Avtech.csproj.CoreCompileInputs.cache
+C:\Users\Daniele\Desktop\Avtech\Avtech\obj\Debug\Avtech.exe
+C:\Users\Daniele\Desktop\Avtech\Avtech\obj\Debug\Avtech.pdb
+C:\Users\Daniele\Desktop\Avtech\Avtech\bin\Debug\Leaf.xNet.dll
+C:\Users\Daniele\Desktop\Avtech\Avtech\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniele\Desktop\Avtech\Avtech\bin\Debug\Avtechlib.pdb
+C:\Users\Daniele\Desktop\Avtech\Avtech\bin\Debug\Avtechlib.xml
+C:\Users\Daniele\Desktop\Avtech\Avtech\obj\Debug\Avtech.csproj.CopyComplete
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\bin\Debug\Avtech.exe.config
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\bin\Debug\Avtech.exe
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\bin\Debug\Avtech.pdb
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\bin\Debug\Avtechlib.dll
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\bin\Debug\Leaf.xNet.dll
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\bin\Debug\Avtechlib.pdb
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\bin\Debug\Avtechlib.xml
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Debug\Avtech.csprojAssemblyReference.cache
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Debug\App.g.cs
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Debug\Avtech_MarkupCompile.cache
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Debug\Avtech_MarkupCompile.lref
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Debug\Avtech.g.resources
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Debug\Avtech.Properties.Resources.resources
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Debug\Avtech.csproj.GenerateResource.cache
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Debug\Avtech.csproj.CoreCompileInputs.cache
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Debug\Avtech.csproj.CopyComplete
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Debug\Avtech.exe
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Debug\Avtech.pdb
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Debug\Notification.g.cs
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Debug\Notification.baml
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Debug\MainWindow.g.cs
+C:\Users\Daniele\Desktop\Avtech - Copia\Avtech\obj\Debug\MainWindow.baml
+C:\Users\Daniele\Desktop\Avtech - Copia - Copia\Avtech\bin\Debug\Avtech.exe.config
+C:\Users\Daniele\Desktop\Avtech - Copia - Copia\Avtech\bin\Debug\Avtech.exe
+C:\Users\Daniele\Desktop\Avtech - Copia - Copia\Avtech\bin\Debug\Avtech.pdb
+C:\Users\Daniele\Desktop\Avtech - Copia - Copia\Avtech\bin\Debug\AvtechLib.dll
+C:\Users\Daniele\Desktop\Avtech - Copia - Copia\Avtech\bin\Debug\Leaf.xNet.dll
+C:\Users\Daniele\Desktop\Avtech - Copia - Copia\Avtech\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniele\Desktop\Avtech - Copia - Copia\Avtech\bin\Debug\AvtechLib.pdb
+C:\Users\Daniele\Desktop\Avtech - Copia - Copia\Avtech\bin\Debug\AvtechLib.xml
+C:\Users\Daniele\Desktop\Avtech - Copia - Copia\Avtech\obj\Debug\Avtech.csprojAssemblyReference.cache
+C:\Users\Daniele\Desktop\Avtech - Copia - Copia\Avtech\obj\Debug\MainWindow.g.cs
+C:\Users\Daniele\Desktop\Avtech - Copia - Copia\Avtech\obj\Debug\Notification.g.cs
+C:\Users\Daniele\Desktop\Avtech - Copia - Copia\Avtech\obj\Debug\App.g.cs
+C:\Users\Daniele\Desktop\Avtech - Copia - Copia\Avtech\obj\Debug\Avtech_MarkupCompile.cache
+C:\Users\Daniele\Desktop\Avtech - Copia - Copia\Avtech\obj\Debug\Avtech_MarkupCompile.lref
+C:\Users\Daniele\Desktop\Avtech - Copia - Copia\Avtech\obj\Debug\MainWindow.baml
+C:\Users\Daniele\Desktop\Avtech - Copia - Copia\Avtech\obj\Debug\Notification.baml
+C:\Users\Daniele\Desktop\Avtech - Copia - Copia\Avtech\obj\Debug\Avtech.g.resources
+C:\Users\Daniele\Desktop\Avtech - Copia - Copia\Avtech\obj\Debug\Avtech.Properties.Resources.resources
+C:\Users\Daniele\Desktop\Avtech - Copia - Copia\Avtech\obj\Debug\Avtech.csproj.GenerateResource.cache
+C:\Users\Daniele\Desktop\Avtech - Copia - Copia\Avtech\obj\Debug\Avtech.csproj.CoreCompileInputs.cache
+C:\Users\Daniele\Desktop\Avtech - Copia - Copia\Avtech\obj\Debug\Avtech.csproj.CopyComplete
+C:\Users\Daniele\Desktop\Avtech - Copia - Copia\Avtech\obj\Debug\Avtech.exe
+C:\Users\Daniele\Desktop\Avtech - Copia - Copia\Avtech\obj\Debug\Avtech.pdb
+C:\Users\Daniele\Desktop\Avtech\Avtech\obj\Debug\Notification.g.cs
+C:\Users\Daniele\Desktop\Avtech\Avtech\obj\Debug\Notification.baml
+C:\Users\Daniele\Desktop\Avtech\Avtech\bin\Debug\AvtechLib.dll
+G:\BackupUltimo\Avtech\Avtech\bin\Debug\Avtech.exe.config
+G:\BackupUltimo\Avtech\Avtech\bin\Debug\Avtech.exe
+G:\BackupUltimo\Avtech\Avtech\bin\Debug\Avtech.pdb
+G:\BackupUltimo\Avtech\Avtech\bin\Debug\AvtechLib.dll
+G:\BackupUltimo\Avtech\Avtech\bin\Debug\Leaf.xNet.dll
+G:\BackupUltimo\Avtech\Avtech\bin\Debug\Newtonsoft.Json.dll
+G:\BackupUltimo\Avtech\Avtech\bin\Debug\AvtechLib.pdb
+G:\BackupUltimo\Avtech\Avtech\bin\Debug\AvtechLib.xml
+G:\BackupUltimo\Avtech\Avtech\obj\Debug\Avtech.csprojAssemblyReference.cache
+G:\BackupUltimo\Avtech\Avtech\obj\Debug\MainWindow.g.cs
+G:\BackupUltimo\Avtech\Avtech\obj\Debug\Notification.g.cs
+G:\BackupUltimo\Avtech\Avtech\obj\Debug\App.g.cs
+G:\BackupUltimo\Avtech\Avtech\obj\Debug\Avtech_MarkupCompile.cache
+G:\BackupUltimo\Avtech\Avtech\obj\Debug\Avtech_MarkupCompile.lref
+G:\BackupUltimo\Avtech\Avtech\obj\Debug\MainWindow.baml
+G:\BackupUltimo\Avtech\Avtech\obj\Debug\Notification.baml
+G:\BackupUltimo\Avtech\Avtech\obj\Debug\Avtech.g.resources
+G:\BackupUltimo\Avtech\Avtech\obj\Debug\Avtech.Properties.Resources.resources
+G:\BackupUltimo\Avtech\Avtech\obj\Debug\Avtech.csproj.GenerateResource.cache
+G:\BackupUltimo\Avtech\Avtech\obj\Debug\Avtech.csproj.CoreCompileInputs.cache
+G:\BackupUltimo\Avtech\Avtech\obj\Debug\Avtech.csproj.CopyComplete
+G:\BackupUltimo\Avtech\Avtech\obj\Debug\Avtech.exe
+G:\BackupUltimo\Avtech\Avtech\obj\Debug\Avtech.pdb
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\bin\Debug\Avtech.exe.config
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\bin\Debug\Avtech.exe
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\bin\Debug\Avtech.pdb
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\bin\Debug\Leaf.xNet.dll
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\bin\Debug\AvtechLib.pdb
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\bin\Debug\AvtechLib.xml
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Debug\Avtech.csprojAssemblyReference.cache
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Debug\MainWindow.g.cs
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Debug\Notification.g.cs
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Debug\App.g.cs
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Debug\Avtech_MarkupCompile.cache
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Debug\Avtech_MarkupCompile.lref
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Debug\MainWindow.baml
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Debug\Notification.baml
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Debug\Avtech.g.resources
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Debug\Avtech.Properties.Resources.resources
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Debug\Avtech.csproj.GenerateResource.cache
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Debug\Avtech.csproj.CoreCompileInputs.cache
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Debug\Avtech.csproj.CopyComplete
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Debug\Avtech.exe
+C:\Users\Daniele\Desktop\Altro\7)Test_Porgrammi\Fatti\JustCam\Avtech\Avtech\obj\Debug\Avtech.pdb
